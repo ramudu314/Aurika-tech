@@ -1,0 +1,70 @@
+/*Css for the pages*/
+#invoice {
+    padding: 20px;
+    border: 1px solid #000;
+    width: 800px;
+    margin: auto;
+    background-color: #fff;
+    font-family: Arial, sans-serif;
+  }
+
+  th, td {
+    padding: 8px;
+    text-align: center;
+  }
+  
+  
+  h1, h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    margin: 5px 0;
+  }
+
+  button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+  }
+  
+  
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  table, th, td {
+    border: 1px solid #000;
+  }
+  
+  
+  
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
